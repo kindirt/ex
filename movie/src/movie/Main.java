@@ -3,6 +3,8 @@ package movie;
 import java.util.Scanner;
 
 public class Main {
+  
+	////수정한 부분
 
 	public static void main(String[] args) {
 		int[][] seats = new int[3][10];
